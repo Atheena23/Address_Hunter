@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+<defs><radialGradient id="v"><stop stop-color="#d9a83f" stop-opacity=".4"/><stop offset="1" stop-color="#1b100b" stop-opacity="0"/></radialGradient></defs>
+<rect width="1400" height="900" fill="#160c08"/>
+<circle cx="700" cy="430" r="430" fill="url(#v)"/>
+<rect x="390" y="130" width="620" height="620" rx="30" fill="#2b1910" stroke="#bd7f32" stroke-width="16"/>
+<rect x="470" y="210" width="460" height="460" rx="20" fill="#15100d" stroke="#80532f" stroke-width="8"/>
+<circle cx="700" cy="440" r="130" fill="#2a1a12" stroke="#d4a44d" stroke-width="10"/>
+<path d="M700 310v260M570 440h260" stroke="#d4a44d" stroke-width="10"/>
+<text x="700" y="820" text-anchor="middle" fill="#efcb77" font-family="Georgia" font-size="34">MEMORY VAULT</text>
+</svg>

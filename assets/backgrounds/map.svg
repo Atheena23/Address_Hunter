@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#25170f"/>
+<path d="M80 160 Q330 50 650 180 T1320 140 M100 690 Q400 570 690 700 T1320 620" fill="none" stroke="#8a5b35" stroke-width="8"/>
+<g stroke="#b17a3c" stroke-width="4" fill="#332016"><path d="M160 260h260v190H160z"/><path d="M550 130h300v210H550z"/><path d="M940 270h300v210H940z"/><path d="M500 530h350v210H500z"/><path d="M980 560h250v180H980z"/></g>
+<g fill="#f0c75e" font-family="Georgia" font-size="28"><text x="190" y="320">CASE ROOM</text><text x="590" y="210">MEMORY LAB</text><text x="1010" y="350">ARCHIVE</text><text x="575" y="620">DATA HALL</text><text x="1010" y="650">VAULT</text></g>
+<g fill="#d18d3f"><circle cx="290" cy="470" r="15"/><circle cx="700" cy="345" r="15"/><circle cx="1080" cy="490" r="15"/><circle cx="680" cy="760" r="15"/><circle cx="1100" cy="760" r="15"/></g>
+<text x="60" y="840" fill="#d9b875" font-family="Georgia" font-size="28">THE MEMORY TRAIL — FIELD MAP</text>
+</svg>

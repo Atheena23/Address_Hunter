@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#2a1710">
+  <title>Address Hunter — The Memory Case</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="game" class="game-shell">
+    <div class="grain"></div>
+    <header class="topbar">
+      <button class="brand-btn" id="homeBtn" type="button" aria-label="Return to title">
+        <span class="brand-mark">AH</span>
+        <span>ADDRESS <b>HUNTER</b></span>
+      </button>
+      <div class="top-actions">
+        <button class="icon-btn" id="soundBtn" type="button" aria-label="Toggle sound">🔊</button>
+        <button class="icon-btn" id="helpBtn" type="button" aria-label="How to play">?</button>
+        <button class="menu-btn" id="menuBtn" type="button" aria-label="Open menu">☰</button>
+      </div>
+    </header>
+
+    <main id="screen" class="screen" aria-live="polite"></main>
+
+    <div id="toast" class="toast" role="status"></div>
+
+    <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+      <div class="modal-backdrop" id="modalBackdrop"></div>
+      <section class="modal-card" id="modalCard"></section>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

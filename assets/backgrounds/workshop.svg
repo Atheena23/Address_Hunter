@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+<defs>
+ <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#4c3022"/><stop offset="1" stop-color="#1b110d"/></linearGradient>
+ <radialGradient id="lamp"><stop stop-color="#ffd97a" stop-opacity=".85"/><stop offset="1" stop-color="#d28b32" stop-opacity="0"/></radialGradient>
+ <linearGradient id="wood"><stop stop-color="#6c3d25"/><stop offset="1" stop-color="#2a160e"/></linearGradient>
+</defs>
+<rect width="1400" height="900" fill="url(#wall)"/>
+<path d="M0 650 Q300 610 700 650 T1400 640 V900 H0Z" fill="#160d09"/>
+<g opacity=".22" stroke="#e0a657" stroke-width="3">
+ <path d="M0 100H1400M0 180H1400M0 260H1400M0 340H1400M0 420H1400"/>
+ <path d="M130 0V600M260 0V600M390 0V600M520 0V600M650 0V600M780 0V600M910 0V600M1040 0V600M1170 0V600M1300 0V600"/>
+</g>
+<rect x="80" y="110" width="390" height="300" rx="12" fill="#24150f" stroke="#9a6339" stroke-width="8"/>
+<rect x="105" y="140" width="340" height="230" rx="6" fill="#10151a"/>
+<path d="M125 320 L180 250 L220 290 L275 200 L330 275 L400 170" fill="none" stroke="#b99043" stroke-width="7"/>
+<text x="125" y="175" fill="#eacb7a" font-family="monospace" font-size="22">MEMORY TRACE</text>
+<rect x="530" y="470" width="700" height="180" rx="15" fill="url(#wood)" stroke="#8b512d" stroke-width="8"/>
+<rect x="610" y="395" width="270" height="170" rx="10" fill="#11161a" stroke="#8b5935" stroke-width="8"/>
+<rect x="635" y="420" width="220" height="115" fill="#182027"/>
+<circle cx="670" cy="450" r="8" fill="#f2c85d"/><circle cx="705" cy="480" r="8" fill="#d65a3b"/><circle cx="740" cy="450" r="8" fill="#65a878"/>
+<path d="M655 510 H835" stroke="#bd8e42" stroke-width="5"/>
+<rect x="950" y="410" width="160" height="110" rx="5" fill="#1b1714" stroke="#79502f" stroke-width="6"/>
+<path d="M980 435h100M980 465h100M980 495h65" stroke="#d7b46d" stroke-width="6"/>
+<g fill="#bd8546"><rect x="40" y="500" width="115" height="130"/><rect x="180" y="500" width="115" height="130"/><rect x="320" y="500" width="115" height="130"/></g>
+<g fill="#e2b865" opacity=".55"><circle cx="1010" cy="220" r="220" fill="url(#lamp)"/><circle cx="430" cy="270" r="170" fill="url(#lamp)"/></g>
+<path d="M1000 80 Q1040 40 1080 80 L1070 130 H1010Z" fill="#2b1710" stroke="#d29a48" stroke-width="6"/>
+<circle cx="1040" cy="155" r="26" fill="#ffd77c"/>
+<text x="70" y="820" fill="#e5c986" font-family="Georgia" font-size="28" opacity=".75">THE OLD COMPUTER RESEARCH WORKSHOP</text>
+</svg>
